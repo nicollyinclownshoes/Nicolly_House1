@@ -60,10 +60,10 @@
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -149,6 +149,7 @@
             // 
             this.groupBox4.BackColor = System.Drawing.Color.Transparent;
             this.groupBox4.Controls.Add(this.pictureBox10);
+            this.groupBox4.Controls.Add(this.groupBox6);
             this.groupBox4.Controls.Add(this.pictureBox7);
             this.groupBox4.Controls.Add(this.pictureBox6);
             this.groupBox4.Controls.Add(this.pictureBox5);
@@ -445,54 +446,13 @@
             this.groupBox6.Controls.Add(this.label2);
             this.groupBox6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox6.ForeColor = System.Drawing.SystemColors.Control;
-            this.groupBox6.Location = new System.Drawing.Point(1178, 668);
+            this.groupBox6.Location = new System.Drawing.Point(817, 34);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(475, 306);
             this.groupBox6.TabIndex = 2;
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Pacientes";
             this.groupBox6.UseCompatibleTextRendering = true;
-            // 
-            // listBox2
-            // 
-            this.listBox2.BackColor = System.Drawing.Color.White;
-            this.listBox2.ForeColor = System.Drawing.Color.Black;
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 24;
-            this.listBox2.Items.AddRange(new object[] {
-            "Episódio 1"});
-            this.listBox2.Location = new System.Drawing.Point(35, 201);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(161, 52);
-            this.listBox2.TabIndex = 15;
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.BackColor = System.Drawing.Color.DimGray;
-            this.pictureBox11.BackgroundImage = global::Nicolly_House1.Properties.Resources.som_off;
-            this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox11.Image = global::Nicolly_House1.Properties.Resources.som_off;
-            this.pictureBox11.Location = new System.Drawing.Point(417, 54);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(48, 46);
-            this.pictureBox11.TabIndex = 12;
-            this.pictureBox11.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.Transparent;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(439, 110);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(30, 59);
-            this.button1.TabIndex = 20;
-            this.button1.Text = ">";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -509,14 +469,55 @@
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(439, 110);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(30, 59);
+            this.button1.TabIndex = 20;
+            this.button1.Text = ">";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // listBox2
+            // 
+            this.listBox2.BackColor = System.Drawing.Color.White;
+            this.listBox2.ForeColor = System.Drawing.Color.Black;
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 24;
+            this.listBox2.Items.AddRange(new object[] {
+            "Episódio 1"});
+            this.listBox2.Location = new System.Drawing.Point(35, 201);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(161, 52);
+            this.listBox2.TabIndex = 15;
+            this.listBox2.SelectedIndexChanged += new System.EventHandler(this.listBox2_SelectedIndexChanged);
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.BackColor = System.Drawing.Color.DimGray;
+            this.pictureBox11.BackgroundImage = global::Nicolly_House1.Properties.Resources.som_off;
+            this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox11.Image = global::Nicolly_House1.Properties.Resources.som_off;
+            this.pictureBox11.Location = new System.Drawing.Point(417, 54);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(48, 46);
+            this.pictureBox11.TabIndex = 12;
+            this.pictureBox11.TabStop = false;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Nicolly_House1.Properties.Resources.fundo1;
-            this.ClientSize = new System.Drawing.Size(1904, 1041);
+            this.ClientSize = new System.Drawing.Size(1364, 749);
             this.Controls.Add(this.pictureBox11);
-            this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
@@ -524,7 +525,7 @@
             this.Controls.Add(this.groupBox4);
             this.MaximumSize = new System.Drawing.Size(1920, 1100);
             this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(1598, 858);
+            this.MinimumSize = new System.Drawing.Size(1358, 726);
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Temporadas e personagens";
