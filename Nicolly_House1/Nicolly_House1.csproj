@@ -128,5 +128,1307 @@
   <ItemGroup>
     <None Include="som_off.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2010.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="anos\house_team_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\anne_dudek_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\charlene_yi_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\hugh_laurie_2004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\hugh_laurie_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\hugh_laurie_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\jeniffer_morisson_2004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\jesse_spencer_2004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\kal_penn_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\odette_annabele_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\olivia_wilde_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\omar_epps_2004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\omar_epps_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\peter_jacobson_2008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\peter_jacobson_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\robert_sean_2004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\robert_sean_2012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\dan_attias.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\daniel_asackheim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\david_platt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\deran_sarafian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\greg_yaitanes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\juan_jose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\matt_shakman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diretores\miguel_sapochnik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep1_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep3_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep4_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep5_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep7_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep8_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep9_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep10_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep11_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep12_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep13_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep14_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep15_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep16_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep17_thumbnail_s8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep18_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep19_thumbnail_s8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep20_thumbnail_s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep21_thumbnail_s8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail_s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep22_thumbnail_s8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep23_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep23_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep23_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep23_thumbnail_s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep24_thumbnail_s2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep24_thumbnail_s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep24_thumbnail_s5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="escritores\david_hoselton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="escritores\david_shore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="escritores\sara_hess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep2_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep3_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep4_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season7_abbey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep5_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season7_julie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season7_niles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep7_season8_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep9_season8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep10_season8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep11_season8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep12_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep13_season8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep14_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season7_cuddy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep15_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep16_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep17_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep17_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep17_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep17_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep17_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season3_fran.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season3_peng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep18_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep20_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season1_carmen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season1_farmer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season3_bro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season3_bro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep22_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep22_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep22_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep22_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep22_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep23_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep23_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep23_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep23_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep24_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep24_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep24_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\adams_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\amber_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\cameron_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\cameron_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\cameron_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\cameron_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chase_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chase_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chase_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chase_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chase_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\chi_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\foreman_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\greghouse_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\juan_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\kutner_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\kutner_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\lisacuddy_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\lisacuddy_season3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\lisacuddy_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\lisacuddy_season6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\lisacuddy_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\masters_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\stacy_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\taub_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\taub_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\taub_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\taub_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\thirteen_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\thirteen_season5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep2_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep1_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep6_season2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="episodios\ep6_thumbnail_s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep19_season7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep21_season1_house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pacientes\paciente_ep8_season5_kid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="personagens\wilson_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atores\lisa_edelstein_2004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="musica.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="som_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="som_off1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

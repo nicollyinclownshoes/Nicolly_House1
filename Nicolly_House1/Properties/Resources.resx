@@ -118,43 +118,1348 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="temp2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep21_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="splashscreen3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\splashscreen3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep2_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep5_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep6_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ep19_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="splashcreen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\splashcreen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep7_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ep17_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ep6_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="temp5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\temporadas\temp5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="house_team_2011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2011.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fundo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\fundo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paciente_ep5_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fundo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\fundo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ep3_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hugh_laurie_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\hugh_laurie_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="temp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\temporadas\temp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="charlene_yi_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\charlene_yi_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail_s8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep23_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep23_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="masters_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\masters_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adams_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\adams_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="omar_epps_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\omar_epps_2004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep24_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep24_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep22_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep22_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="peter_jacobson_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\peter_jacobson_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jeniffer_morisson_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\jeniffer_morisson_2004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chi_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chi_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season7_julie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season7_julie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep17_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep17_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amber_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\amber_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chase_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chase_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\fundo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep5_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jesse_spencer_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\jesse_spencer_2004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="matt_shakman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\matt_shakman.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="peter_jacobson_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\peter_jacobson_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="som_off" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\som_off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season5_kid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season5_kid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="robert_sean_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\robert_sean_2004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep23_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep23_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2010" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2010.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="juan_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\juan_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2004.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kal_penn_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\kal_penn_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="david_platt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\david_platt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kutner_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\kutner_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep5_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thirteen_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\thirteen_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cameron_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\cameron_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cameron_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\cameron_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep23_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep23_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taub_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\taub_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taub_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\taub_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="david_hoselton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\escritores\david_hoselton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep17_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep17_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season3_bro2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season3_bro2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="som_off1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\som_off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="david_shore" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\escritores\david_shore.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="splashscreen3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\splashscreen3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisacuddy_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\lisacuddy_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taub_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\taub_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="omar_epps_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\omar_epps_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greg_yaitanes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\greg_yaitanes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chase_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chase_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deran_sarafian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\deran_sarafian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="robert_sean_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\robert_sean_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\fundo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cameron_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\cameron_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep23_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep23_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season3_fran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season3_fran.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep22_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep22_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cameron_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\cameron_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hugh_laurie_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\hugh_laurie_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep23_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep23_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season8_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season8_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season7_cuddy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season7_cuddy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep22_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep22_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kutner_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\kutner_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep5_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep17_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep17_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season1_house" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season1_house.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season1_farmer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season1_farmer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep2_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep2_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep24_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep24_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep17_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep17_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="juan_jose" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\juan_jose.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep23_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep23_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="som_on" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\som_on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail_s4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chase_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chase_season1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="musica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\musica.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ep20_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="olivia_wilde_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\olivia_wilde_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season1_carmen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season1_carmen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep24_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep24_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep24_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep24_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anne_dudek_2008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\anne_dudek_2008.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep17_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep17_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miguel_sapochnik" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\miguel_sapochnik.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep15_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep15_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisacuddy_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\lisacuddy_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="daniel_asackheim" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\daniel_asackheim.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dan_attias" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diretores\dan_attias.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisa_edelstein_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\lisa_edelstein_2004.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="splashcreen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\splashcreen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep24_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep24_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep8_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep8_thumbnail_s2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2009.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisacuddy_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\lisacuddy_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep9_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep9_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep16_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep16_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep22_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep22_thumbnail_s3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wilson_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\wilson_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep18_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep18_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep23_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep23_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep14_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep14_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hugh_laurie_2004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\hugh_laurie_2004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greghouse_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\greghouse_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep12_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep12_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep16_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep16_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep1_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep1_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep24_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep24_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep19_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep19_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep6_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep6_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep23_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep23_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taub_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\taub_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sara_hess" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\escritores\sara_hess.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season3_peng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season3_peng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep5_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep22_season5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep22_season5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep5_season7_abbey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep5_season7_abbey.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="odette_annabele_2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\atores\odette_annabele_2012.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foreman_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\foreman_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep20_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep20_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep10_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep10_season8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep11_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep11_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep3_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep3_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season3_bro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season3_bro1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stacy_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\stacy_season2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep3_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep3_season7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep11_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep11_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisacuddy_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\lisacuddy_season3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep12_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep12_thumbnail_s3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thirteen_season4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\thirteen_season4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep20_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep20_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep22_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep22_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chase_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chase_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep13_season7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep13_season7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep8_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep8_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep19_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep19_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep4_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep4_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep17_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep17_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep2_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep2_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep10_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep10_thumbnail_s7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house_team_2006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\anos\house_team_2006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep6_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep6_thumbnail_s3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep9_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep9_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep1_season3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep1_season3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep13_thumbnail_s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep13_thumbnail_s4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep21_season8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep21_season8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep18_season1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep18_season1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep15_thumbnail_s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep15_thumbnail_s5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="temp5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\temporadas\temp5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep14_thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep14_thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chase_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\chase_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paciente_ep7_season7_niles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pacientes\paciente_ep7_season7_niles.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lisacuddy_season6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\personagens\lisacuddy_season6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep7_thumbnail_s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep7_thumbnail_s7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep5_thumbnail_s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep5_thumbnail_s3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep4_thumbnail_s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep4_thumbnail_s2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ep21_thumbnail_s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\episodios\ep21_thumbnail_s6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="som_off11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\som_off1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
